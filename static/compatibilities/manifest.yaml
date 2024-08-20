@@ -15,6 +15,7 @@ names:
 - istio
 - jaeger
 - keda
+- kong-ingress-controller
 - kube-prometheus-stack
 - kyverno
 - linkerd
